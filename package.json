@@ -1,0 +1,20 @@
+{
+  "name": "git-and-github-rahqis",
+  "version": "1.0.0",
+  "description": "## 🤓 Course overview and learning outcomes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comp426-2022-spring/git-and-github-rahqis.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/comp426-2022-spring/git-and-github-rahqis/issues"
+  },
+  "homepage": "https://github.com/comp426-2022-spring/git-and-github-rahqis#readme"
+}
